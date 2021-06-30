@@ -9,7 +9,7 @@ version: 2
 
 # Personal info
 name: 심 재 진
-title: Your job title
+title: 솔루션 개발자
 email: Your email (optional)
 # email_title: Email (Email title override)
 phone: Your phone number (optional)
@@ -52,7 +52,7 @@ additional_links:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: /images/landscape-trees.jpg 
+about_profile_image: /images/simjaejin.jpg
 about_content: | # this will include new lines to allow paragraphs
   Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
