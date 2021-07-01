@@ -14,7 +14,7 @@ email: simjjy89@gmail.com
 # email_title: Email (Email title override)
 phone: 010-4232-3226
 # phone_title: Phone (Phone title override)
-website: Your website (eg. https://google.com)(optional)
+#website: Your website (eg. https://google.com)(optional)
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
@@ -54,15 +54,11 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: /images/simjaejin.jpg 
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  검색/빅데이터 솔루션 회사에 다니고 있는 6년차 개발자 입니다. 주로 공공기관 및 공기업 프로젝트를 수행하고 있습니다. 다양한 프로젝트를 경험하며, 새로운 환경에 적응하는것에 거부감이 없고 다양한 사람들과 능동적으로 소통을 하며 협업을 하였습니다.
+  
+   
 
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
-
-content:
+content: 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -84,7 +80,7 @@ content:
   - title: Experience
     layout: list
     content:
-      - layout: right
+      - layout: left
         title: Company name
         sub_title: Job title
         caption: Date Range (eg. November 2016 - present)
@@ -96,7 +92,7 @@ content:
   - title: Education
     layout: list
     content:
-      - layout: top-right
+      - layout: left
         title: Institution name
         sub_title: Qualifications (eg. BA Performing Arts)
         caption: Date Range (eg. 2016 - 2019)
