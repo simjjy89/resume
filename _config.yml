@@ -16,6 +16,7 @@ phone: 010-4232-3226
 # phone_title: Phone (Phone title override)
 #website: Your website (eg. https://google.com)(optional)
 # website_title: Web (Website title override)
+website: https://github.com/simjjy89
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -51,14 +52,44 @@ additional_links:
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me (Use this to override about section title)
+# about_title: 자기소개(Use this to override about section title)
 about_profile_image: /images/simjaejin.jpg 
 about_content: | # this will include new lines to allow paragraphs
   검색/빅데이터 솔루션 회사에 다니고 있는 6년차 개발자 입니다. 주로 공공기관 및 공기업 프로젝트를 수행하고 있습니다. 다양한 프로젝트를 경험하며, 새로운 환경에 적응하는것에 거부감이 없고 다양한 사람들과 능동적으로 소통을 하며 협업을 하였습니다.
 
 
 content: 
-  - title: Projects # Title for the section
+  - title: 보유기술
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      <mark>Programming Language</mark>  Java, Javascript, HTML
+
+      <mark>Framework</mark>  Spring Framework
+
+      <mark>Library</mark>  jQuery
+
+      <mark>Server</mark>  Apache, jetty
+
+      <mark>DataBase</mark>  Oracle, tibero, mySql
+
+      <mark>OS</mark>  Windows, Linux
+
+      <mark>Tool</mark>  Eclipse, SVN, github, vi
+
+  - title: 경력 
+    layout: list
+    content:
+      - layout: left
+        title: Company name
+        sub_title: Job title
+        caption: Date Range (eg. November 2016 - present)
+        link: Link to company (optional)
+        quote: >
+          Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description of role
+
+  - title: 프로젝트 # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -76,19 +107,9 @@ content:
           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
-  - title: Experience
-    layout: list
-    content:
-      - layout: left
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
-        quote: >
-          Short description of the company (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of role
-  - title: Education
+
+
+  - title: 학업
     layout: list
     content:
       - layout: left
