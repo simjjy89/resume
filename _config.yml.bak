@@ -85,12 +85,13 @@ content:
         caption: 기간 (2016.04 ~ 현재)
         link: http://www.wisenut.co.kr
         quote: > 
-        description: | # this will include new lines to allow paragraphs
-          공공개발팀 (2016.10 ~ )<br>
-          -ㅇㅇㅇ <br><br>
+        description: | 
+          공공개발팀 (2016.10 ~ ) <br>
+          - 자사 솔루션 구축 및 커스터마이징 <br><br><br> 
 
-          기술지원팀 (2016.04 ~ 2016.09)<br>
-          -ㅇㅇㅇ <br>
+          기술지원팀 (2016.04 ~ 2016.09) <br>
+          - 프로젝트 유지보수  
+          - 단기 프로젝트 수행 <br><br>
 
   - title: 프로젝트 # Title for the section
     layout: text # Type of content section (list/text)
@@ -135,17 +136,16 @@ content:
       - ss
       - ss <br><br><br>
 
-  - title: 학업
+  - title: 학력 사항
     layout: list
     content:
       - layout: left
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
-        quote: >
-          Short institution or course description (optional)
+        title: 대학
+        sub_title:  
+        caption: 기간 (2009.04 - 2016.02)
+        quote: > 
         description: | # this will include new lines to allow paragraphsz
-          Description of qualification
+          - 수원대학교 정보통신공학과(학사)
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
