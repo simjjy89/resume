@@ -4,6 +4,13 @@
 @import "dark";
 @import "icons";
 
+@media print {
+	.profile-img {
+		-webkit-print-color-adjust: exact !important;
+		print-color-adjust: exact !important;
+    }
+}
+
 .header-right p {
   margin-bottom: 3px;
 }
@@ -39,7 +46,9 @@
   background-repeat: repeat, no-repeat;
   -moz-box-shadow: inset 0 0 20px #636161;
   -webkit-box-shadow: inset 0 0 20px #636161;
+  -webkit-print-color-adjust: exact;
   box-shadow: inset 0 0 20px #636161;
+  align : center;
 }
 
 .into-text-1 {
