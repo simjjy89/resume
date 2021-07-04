@@ -65,15 +65,12 @@ content:
 
 
   - title: 경력 
-    layout: list
-    content:
-      - layout: left
-        title: 와이즈넛
-        sub_title: 
-        caption: 기간 (2016.04 ~ 현재)
-        link: http://www.wisenut.co.kr
-        quote: > 
-        description: | 
+    layout: text
+    content: | 
+          <font size=5 align="center"><strong>와이즈넛</strong></font>
+          기간 (2016.04 ~ 현재)
+          <br><br>
+
           공공개발팀 (2016.10 ~ ) <br>
           - 공공기관 및 공기업 프로젝트 다수 참여 
           - 다양한 환경에 자사 솔루션 구축 (Linux,Unix,solaris,CentOs,Windows 등등..)
