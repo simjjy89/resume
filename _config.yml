@@ -62,6 +62,25 @@ about_content: | # this will include new lines to allow paragraphs
 content: 
 
 
+  - title: 기본정보 
+    layout: text
+    content: | 
+       - 이름 :심재진
+       - 생년월일 : 1989년 1월 30일
+       - 자격증 : 정보처리기사
+       - 병역사항 : 공군 만기전역 (2010.02 ~ 2012.02)
+
+  - title: 학력 사항
+    layout: list
+    content:
+      - layout: left
+        title: 대학교
+        sub_title:  
+        caption: 기간 (2009.04 - 2016.02)
+        quote: > 
+        description: | # this will include new lines to allow paragraphsz
+          - 수원대학교 정보통신공학과(학사)
+
   - title: 경력 
     layout: text
     content: | 
@@ -96,6 +115,7 @@ content:
       <mark>주요 업무</mark>
       - Spring Framework(전자정부프레임워크) 기반 통합검색 및 챗봇 API 서버 고도화
       - 통합검색 페이지 UI/UX 고도화
+      - 통합검색결과에 Kosis Open API 연동
       - Spring scheduler를 사용하여 인기검색어 순위 주기적으로 변경
       - 챗봇 UI/UX 고도화 
       - 챗봇 학습데이터(JSON) 일괄 UPLOAD/DOWNLOAD 프로세스 추가
@@ -172,35 +192,17 @@ content:
     content: | # this will include new lines to allow paragraphs
       <mark>Back-End</mark>  Java, Spring Framework 
 
-      <mark>Front-END</mark>  Javascript, JQuery, Websquare,HTML/CSS
+      <mark>Front-END</mark>  Javascript, JQuery, Websquare, HTML/CSS, Bootstrap
   
-      <mark>Server</mark>  Apache, jetty
+      <mark>Web Server</mark>  Apache, jetty
 
       <mark>Data</mark>  Oracle, mySql, Tibero
 
-      <mark>OS</mark>  Linux, Unix, Windows
+      <mark>Environment</mark>  Linux, Unix, Windows
 
       <mark>Tool</mark> SVN, github, vi
 
 
-  - title: 기본정보 
-    layout: text
-    content: | 
-       - 이름 :심재진
-       - 생년월일 : 1989년 1월 30일
-       - 자격증 : 정보처리기사
-       - 병역사항 : 공군 만기전역 (2010.02 ~ 2012.02)
-
-  - title: 학력 사항
-    layout: list
-    content:
-      - layout: left
-        title: 대학교
-        sub_title:  
-        caption: 기간 (2009.04 - 2016.02)
-        quote: > 
-        description: | # this will include new lines to allow paragraphsz
-          - 수원대학교 정보통신공학과(학사)
  
 # Footer
 footer_show_references: true
