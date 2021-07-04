@@ -9,7 +9,7 @@ version: 2
 
 # Personal info
 name: 심 재 진
-title: 솔루션 개발자
+title: 자기소개서
 email: simjjy89@gmail.com
 # email_title: Email (Email title override)
 phone: 010-4232-3226
@@ -104,8 +104,7 @@ content:
       - Websquare를 사용하여 통합검색 및 빅데이터 연동 화면 작업  
 
       <mark>개선 및 문제해결 사례</mark>
-      - qq
-      - Websquare를 사용하여 통합검색 및 빅데이터 연동 화면 작업 <br><br><br>
+      - 프로젝트에서 UI 플랫폼으로 그동안 사용해본 적이 없던 Websquare를 채택하고 있어 초기에는 개발에 어려움을 느꼈지만 Technical Documents와 기존 소스들을 참고하여 문제없이 작업에 임하고 있습니다. <br><br><br>
 
       <font size=4><strong>통계청 마이크로데이터 거버넌스 구축 데이터 멘토링 시스템 확대 사업</strong> (2020.06 ~ 2021.03)</font> 
       통계청 마이크로데이터 통합서비스 고도화 사업 <br>
