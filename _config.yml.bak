@@ -55,9 +55,9 @@ additional_links:
 # about_title: 자기소개(Use this to override about section title)
 about_profile_image: /images/simjaejin.jpg 
 about_content: | # this will include new lines to allow paragraphs
-  검색/빅데이터 솔루션 회사에 다니고 있는 6년차 개발자 입니다. 주로 공공기관 및 공기업 프로젝트를 수행하며 솔루션 API 구축 및 API 연동 UI/UX개발을 하고있습니다. 다양한 프로젝트를 경험하며, 새로운 환경에 적응하는것에 거부감이 없고 다양한 사람들과 능동적으로 소통을 하며 협업을 하였습니다.
+  검색/빅데이터 솔루션 회사에 다니고 있는 6년차 개발자 입니다. 주로 공공기관 및 공기업 프로젝트를 수행하며 솔루션 API 구축 및 API 연동 UI/UX개발을 하고있습니다. 다양한 프로젝트를 경험하며, 새로운 환경에 적응하는것에 거부감이 없고 다양한 사람들과 능동적으로 소통을 하며 협업을 하는 것을 좋아합니다.
   
-  기능 구현만을 목표로 하지않고 가독성과 유지보수성을 생각하며 리팩토링에 힘쓰는 개발자가 되도록 하겠습니다.
+  기능 구현만을 목표로 하지않고 가독성과 유지보수성을 생각하며 리팩토링에 힘쓰는 개발자가 되도록 하겠습니다.<br><br>
   
 content: 
 
@@ -68,7 +68,7 @@ content:
        - 이름 :심재진
        - 생년월일 : 1989년 1월 30일
        - 자격증 : 정보처리기사
-       - 병역사항 : 공군 만기전역 (2010.02 ~ 2012.02)
+       - 병역사항 : 공군 만기전역 (2010.01 ~ 2012.02)
        <br><br><br>
 
   - title: 학력 사항
@@ -77,7 +77,7 @@ content:
       - layout: left
         title: 대학교
         sub_title:  
-        caption: 기간 (2009.04 - 2016.02)
+        caption: 기간 (2009.03 - 2016.02)
         quote: > 
         description: | # this will include new lines to allow paragraphsz
           - 수원대학교 정보통신공학과(학사)
@@ -86,18 +86,18 @@ content:
   - title: 경력 
     layout: text
     content: | 
-          <font size=3 align="center"><strong>와이즈넛</strong></font>
+          <font size=2 align="center"><strong>와이즈넛</strong></font>
           기간 (2016.04 ~ 현재)
           <br><br>
 
-          공공개발팀 (2016.10 ~ ) <br>
+          공공사업본부 공공개발팀 (2016.10 ~ ) <br>
           - 공공기관 및 공기업 프로젝트 다수 참여 
           - 다양한 환경에 자사 솔루션 구축 (Linux,Unix,solaris,CentOs,Windows 등)
           - 고객 및 협력업체와 업무협의
           - 솔루션 연동 API 구현 및 가이드 문서 제공
           - 솔루션 연동화면 UI/UX 개발 <br>
 
-          기술지원팀 (2016.04 ~ 2016.09) <br> 
+          X-Biz사업부 기술지원팀 (2016.04 ~ 2016.09) <br> 
           - 담당 프로젝트 정기점검 및 이슈 처리
           - 단기 프로젝트 수행 <br><br><br>
 
@@ -108,7 +108,7 @@ content:
       육∙해∙공 C4I 체계 및 각종 센서와의 연동을 통해 군사정보를 종합 관리하는 MIMS 시스템에 대한 성능 개량 사업 <br>
       <mark>주요 업무</mark>
       - Spring Framework(전자정부프레임워크) 기반 통합검색 API 구현 
-      - 검색엔진 데이터 수집 쿼리 튜닝(tibero)
+      - 검색엔진 데이터 수집 쿼리 튜닝(Tibero)
       - Websquare UI 플랫폼을 이용한 UI/UX 개발 
       <br><br>
  
@@ -120,7 +120,7 @@ content:
       - 통합검색결과에 Kosis Open API 연동
       - Spring scheduler를 사용하여 인기검색어 순위 주기적으로 변경
       - 챗봇 UI/UX 고도화 
-      - 챗봇 학습데이터(JSON) 일괄 UPLOAD/DOWNLOAD 프로세스 추가
+      - 챗봇 학습데이터(JSON) 일괄 Upload/Download 프로세스 추가
       - 형상관리를 위한 SVN 구축(Linux 서버)	
       <br><br>
  
@@ -130,14 +130,14 @@ content:
       - 통합검색페이지 화면설계 협의
       - 통합검색 페이지 UI/UX 고도화
       - Spring Framework(전자정부프레임워크) 기반 통합검색 연동로직 고도화
-      - 검색엔진 데이터 수집 쿼리 튜닝(tibero) 
+      - 검색엔진 데이터 수집 쿼리 튜닝(Oracle) 
       <br><br>
  
       <font size=2><strong>한국수출입은행 디지털워크플레이스 구축</strong> (2019.07 ~ 2019.11)</font> 
       한국 수출입은행 디지털워크플레이스 고도화 사업 <br>
       <mark>주요 업무</mark>
       - .NET Framework 기반 통합검색 API 구현
-      - prototype 분류체계 솔루션션을 활용한 pilot 프로젝트 진행
+      - Prototype 분류체계 솔루션션을 활용한 Pilot 프로젝트 진행
       <br><br>
 
  
@@ -146,7 +146,7 @@ content:
       <mark>주요 업무</mark>
       - 사내 그룹웨어 통합검색 API 고도화
       - 통합검색 페이지 UI/UX 고도화
-      - 검색엔진 데이터 수집 쿼리 튜닝(ORACLE) 
+      - 검색엔진 데이터 수집 쿼리 튜닝(Oracle) 
       - 웹크롤링 솔루션을 활용하여 수집된 상급종합병원 비급여데이터 DB 마이그레이션 작업 (MySQL -> Oracle 11g)
       <br><br>
 
@@ -155,7 +155,7 @@ content:
       <mark>주요 업무</mark>
       - Spring Framework(전자정부프레임워크) 기반 통합검색 API 고도화
       - 통합검색 API 가이드 배포 및 인수인계
-      - 검색엔진 데이터 수집 쿼리 튜닝(ORACLE) 
+      - 검색엔진 데이터 수집 쿼리 튜닝(Oracle) 
       - 타사 문서중앙화 솔루션(ECM) 솔루션 API 활용 첨부파일 수집 기능 커스텀
       <br><br>
 
