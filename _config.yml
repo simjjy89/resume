@@ -57,7 +57,8 @@ about_profile_image: /images/simjaejin.jpg
 about_content: | # this will include new lines to allow paragraphs
   검색/빅데이터 솔루션 회사에 다니고 있는 6년차 개발자 입니다. 주로 공공기관 및 공기업 프로젝트를 수행하고 있습니다. 다양한 프로젝트를 경험하며, 새로운 환경에 적응하는것에 거부감이 없고 다양한 사람들과 능동적으로 소통을 하며 협업을 하였습니다.
 
-
+  Spring 프레임 워크 등, Back-End 에 솔루션 연동 API 구축을 주로 하였고, API에서 가져온 데이터의 Front-End 처리도 같이 하고있습니다. 
+  
 content: 
   - title: 보유기술
     layout: text
@@ -135,6 +136,21 @@ content:
       <mark>개선 및 문제해결 사례</mark>
       - ss
       - ss <br><br><br>
+
+      <font size=2><strong>청와대 기록관리시스템 구축 사업-분리발주(검색엔진) </strong> (2019.011 ~ 2019.12)</font><br>
+      <font size=2><strong>건강보험심사평가원 2018년도 대내외 업무서비스 개선(루트온플러스) </strong> (2019.011 ~ 2019.12)</font><br>
+      <font size=2><strong>식품의약품안전처 2018년도 차세대 의약품통합정보시스템 구축 개발 </strong> (2019.011 ~ 2019.12)</font> <br>
+      <font size=2><strong>식품의약품안전처 대표홈페이지 클라우드이전SW  </strong> (2019.011 ~ 2019.12)</font> <br>
+      <font size=2><strong>건강보험심사평가원 대내외 업무 서비스 개선사업 </strong> (2019.011 ~ 2019.12)</font> <br> 
+      <font size=2><strong>강원도 동계평창올림픽 포털 구축 사업 </strong> (2018.01 ~ 2018.02)</font> <br>
+      <font size=2><strong>방송통신심의위원회 통합 홈페이지 전면 개편 사업 </strong> (2017.11 ~ 2017.12)</font> <br>
+      <font size=2><strong>건강보험심사평가원 대내외 업무 서비스 개선사업 </strong> (2017.07 ~ 2018.02)</font> <br>
+      <font size=2><strong>한국해양과학기술진흥원 해양수산 R&D 지식정보시스템(OFRIS) 구축 (2차년도) SW 구매 </strong> (2017.05 ~ 2017.07)</font> <br>
+      <font size=2><strong>공무원연금공단 서브홈페이지 통합 및 기능개선 </strong> (2017.03 ~ 2017.04)</font> <br>
+      <font size=2><strong>아시아문화원 아시아 문화 디지털 콘텐츠 구축을 위한 연구 및 수집 용역 </strong> (2016.11 ~ 2017.03)</font> <br>
+      <font size=2><strong>국방기술품질원 국방기술정보통합서비스(DITIS)노후장비(인터넷망)교체사업_분리발주(검색SW) </strong> (2016.10 ~ 2016.11)</font> <br>
+
+      
 
   - title: 학력 사항
     layout: list
