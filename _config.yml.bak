@@ -69,6 +69,7 @@ content:
        - 생년월일 : 1989년 1월 30일
        - 자격증 : 정보처리기사
        - 병역사항 : 공군 만기전역 (2010.02 ~ 2012.02)
+       <br><br>
 
   - title: 학력 사항
     layout: list
@@ -80,6 +81,7 @@ content:
         quote: > 
         description: | # this will include new lines to allow paragraphsz
           - 수원대학교 정보통신공학과(학사)
+        <br><br>
 
   - title: 경력 
     layout: text
@@ -115,7 +117,7 @@ content:
       <mark>주요 업무</mark>
       - Spring Framework(전자정부프레임워크) 기반 통합검색 및 챗봇 API 서버 고도화
       - 통합검색 페이지 UI/UX 고도화
-      - 통합검색결과에 Kosis 검색 Open API 연동
+      - 통합검색결과에 Kosis Open API 연동
       - Spring scheduler를 사용하여 인기검색어 순위 주기적으로 변경
       - 챗봇 UI/UX 고도화 
       - 챗봇 학습데이터(JSON) 일괄 UPLOAD/DOWNLOAD 프로세스 추가
@@ -173,7 +175,7 @@ content:
       - 통합검색 페이지 UI/UX 고도화
       - AJAX 활용하여 실시간 자동완성 기능 구현
       - 검색엔진 서버 이중화 적용
-      <br><br><br><br>
+      <br><br><br>
 
 
       <font size=2><strong>행정안전부 차세대 주민등록정보시스템 구축(2차) </strong> (2021.03 ~ 2021.04)</font><br> 
