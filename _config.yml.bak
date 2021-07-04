@@ -59,6 +59,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   Spring 프레임 워크 등, Back-End 에 솔루션 연동 API 구축을 주로 하였고, API에서 가져온 데이터의 Front-End 처리도 같이 하고있습니다. 
   
+  기능 구현만을 목표로 하지않고 가독성과 유지보수성을 생각하며 리팩토링에 힘쓰는 개발자가 되도록 하겠습니다.
   
 content: 
 
@@ -75,10 +76,14 @@ content:
         description: | 
           공공개발팀 (2016.10 ~ ) <br>
           - 공공기관 및 공기업 프로젝트 다수 참여 
+	  - 다양한 환경에 자사 솔루션 구축 (Linux,Unix,solaris,CentOs,Windows 등등..)
+	  - 고객 및 협력업체와 업무협의
+          - 솔루션 연동 API 구현 및 가이드 문서 제공
+	  - 솔루션 연동화면 UI/UX 개발 <br>
 
-          기술지원팀 (2016.04 ~ 2016.09) <br>
-          - 프로젝트 유지보수  
-          - 단기 프로젝트 수행 <br><br>
+          기술지원팀 (2016.04 ~ 2016.09) <br> 
+	  - 담당 프로젝트 정기점검 및 이슈 처리
+	  - 단기 프로젝트 수행 <br><br>
 
   - title: 프로젝트 # Title for the section
     layout: text # Type of content section (list/text)
